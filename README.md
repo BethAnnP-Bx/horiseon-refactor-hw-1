@@ -3,7 +3,11 @@
 Ractored the code with these following changes:
 Updated title to Horiseon to be more descriptive.
 Edited header to header tag.
-Added id thus correcting the link for Search Engine Optimization within the header.
+Added id and corrected the link for Search Engine Optimization within the header.
+Added nav tags to header listed links.
+Added alt text to the background image.
+Added alt text to six images.
+Removed the closing img tag on img Cost Management.
 
 
 
