@@ -13,8 +13,9 @@ Refactored the code with these following changes:
 * Added footer tag to refactor toward Semantic HTML
 * Commented out index.html and CSS  
 
-Deployed URL and Repo URL:
+## Deployed URL and Repo URL:
 https://bethannp-bx.github.io/horiseon-refactor-hw-1/
+
 https://github.com/BethAnnP-Bx/horiseon-refactor-hw-1
 
 ## User Story
