@@ -42,5 +42,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 Two Screenshots to show full Horiseon site:
-![Screenshot top of Horiseon site](./Screenshot1HoriseonRefactorHW.jpg)
-![Screenshot bottom of Horiseon site](./Screenshot2HoriseonRefactorHW.jpg)
+
+![Screenshot top of Horiseon site](./assets/images/Screenshot1HoriseonRefactorHW.jpg)
+![Screenshot bottom of Horiseon site](./assets/images/Screenshot2HoriseonRefactorHW.jpg) 
