@@ -10,7 +10,8 @@ Refactored the code with these following changes:
 * Removed the closing img tag on img Cost Management
 * Moved sections in CSS to match HTML toward accessibility standards
 * Updated hero class to section from div
-* Added footer tag to refactor toward Semantic HTML 
+* Added footer tag to refactor toward Semantic HTML
+* Commented out index.html and CSS  
 
 
 ## User Story

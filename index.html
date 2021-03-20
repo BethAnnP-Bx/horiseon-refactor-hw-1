@@ -8,38 +8,37 @@
     <title>Horiseon - SEO, Online Rep, Social Media</title>
 </head>
 
+<!-- refactor div header to header tag -->
+<header>
+    <h1>Hori<span class="seo">seo</span>n</h1>
+    <!-- refactor added nav tags to header -->
+    <!-- refactor add class to navigation -->
+    <nav class="header-nav">
+        <ul>
+            <li>
+                <a href="#search-engine-optimization">Search Engine Optimization</a>
+            </li>
+            <li>
+                <a href="#online-reputation-management">Online Reputation Management</a>
+            </li>
+            <li>
+                <a href="#social-media-marketing">Social Media Marketing</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+<!-- refactor added sections and articles -->
+<section class="hero">
+    <!-- refactor added alt text to HERO background image -->
+    <span role=img" aria-label="Digital Marketing Meeting with staff at a meeting table."></span>
+</section>
+
 <body>
-    <!-- refactor div header to header tag -->
-    <header>
-        <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
-            <!-- refactor added nav tags to header -->
-            <nav>
-                <ul>
-                    <li>
-                        <a href="#search-engine-optimization">Search Engine Optimization</a>
-                    </li>
-                    <li>
-                        <a href="#online-reputation-management">Online Reputation Management</a>
-                    </li>
-                    <li>
-                        <a href="#social-media-marketing">Social Media Marketing</a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-
-    <!-- refactor by adding section -->
-    <section class="hero">
-        <!-- refactor added alt text to HERO background image -->
-        <span role=img" aria-label="Digital Marketing Meeting with staff at a meeting table."></span>
-    </section>
-
-    <div class="content">
-        <!-- refactor id to link href attribute -->
-        <!-- refactor added alt texts to images -->
-        <div id="search-engine-optimization" class="search-engine-optimization">
+    <!-- refactor id to link href attribute -->
+    <!-- refactor added alt texts to images -->
+    <section class="content">
+        <article id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg"
                 alt="Search Engine Optimization notebook, pens, coffee, and magnifying glass on a desk."
                 class=" float-left" />
@@ -49,8 +48,8 @@
                 travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase
                 your visibility and find the right customers for your business.
             </p>
-        </div>
-        <div id="online-reputation-management" class="online-reputation-management">
+        </article>
+        <article id="online-reputation-management" class="online-reputation-management">
             <img src="./assets/images/online-reputation-management.jpg"
                 alt="Online Reputation Management graph on a laptop screen." class="float-right" />
             <h2>Online Reputation Management</h2>
@@ -60,8 +59,8 @@
                 gives
                 you the control over what potential customers see when they search for your business.
             </p>
-        </div>
-        <div id="social-media-marketing" class="social-media-marketing">
+        </article>
+        <article id="social-media-marketing" class="social-media-marketing">
             <img src="./assets/images/social-media-marketing.jpg"
                 alt="Social Media Marketing meeting table with stickers for tweet, like, media." class="float-left" />
             <h2>Social Media Marketing</h2>
@@ -71,8 +70,9 @@
                 determine which platforms are suited to your brand, using analytics to find the right markets and
                 increase your lead generation.
             </p>
-        </div>
-    </div>
+        </article>
+    </section>
+
     <div class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
