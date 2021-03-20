@@ -8,8 +8,8 @@ Refactored the code with these following changes:
 * Added nav tags to header listed links
 * Added alt text to all images
 * Removed the closing img tag on img Cost Management
-* Moved sections in CSS to match HTML toward accessibility standards
-* Updated hero class to section from div
+* Moved sections in CSS to match HTML, optimizing flow
+* Updated classes from divs to sections and articles toward HTML Semantic best practices
 * Added footer tag to refactor toward Semantic HTML
 * Commented out index.html and CSS  
 
