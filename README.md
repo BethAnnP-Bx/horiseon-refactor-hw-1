@@ -13,6 +13,9 @@ Refactored the code with these following changes:
 * Added footer tag to refactor toward Semantic HTML
 * Commented out index.html and CSS  
 
+Deployed URL and Repo URL:
+https://bethannp-bx.github.io/horiseon-refactor-hw-1/
+https://github.com/BethAnnP-Bx/horiseon-refactor-hw-1
 
 ## User Story
 
@@ -37,3 +40,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+Two Screenshots to show full Horiseon site:
+![Screenshot top of Horiseon site](./Screenshot1HoriseonRefactorHW.jpg)
+![Screenshot bottom of Horiseon site](./Screenshot2HoriseonRefactorHW.jpg)
