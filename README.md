@@ -1,8 +1,8 @@
-# Refactor the Horiseon site Starter Code to meet Accessibilty Standards.
+# Refactor the Horiseon site Starter Code to meet Accessibility Standards.
 
 Refactored the code with these following changes:
 
-* Updated title to Horiseon to be more descriptive yet concise
+* Updated title to Horiseon to be more descriptive, yet concise
 * Edited header to header tag
 * Added id and corrected the link for Search Engine Optimization within the header
 * Added nav tags to header listed links
